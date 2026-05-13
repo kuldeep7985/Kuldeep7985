@@ -2,9 +2,7 @@
 
 # 👋 Hi, I'm Kuldeep Saini
 
-### IT Support Engineer | AWS Cloud Practitioner ☁️
-Networking | Windows Server | VMware | Linux | ServiceNow
-300+ hours hands-on IT Infrastructure training 🔧
+### IT Support Engineer | System Administrator | AWS Cloud Practitioner
 
 **Faridabad, Haryana, India** • Open to Delhi NCR, Noida, Gurgaon & Remote
 

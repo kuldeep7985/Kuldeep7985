@@ -80,14 +80,13 @@ Available  : Immediate Joiner
 
 | # | Project | Skills Used |
 |---|---|---|
-| 01 | [🌐 Network Design & VLAN Implementation](#) | Cisco PT, VLAN, OSPF, RIP |
-| 02 | [🖥️ Windows Server Administration Lab](#) | AD, DHCP, DNS, VMware |
-| 03 | [☁️ AWS Cloud Infrastructure Lab](#) | EC2, S3, IAM, VPC |
-| 04 | [🐧 Multi-OS Deployment & Virtualization](#) | VMware, Hyper-V, Linux |
-| 05 | [🎫 IT Service Desk Simulation](#) | ServiceNow, Zoho Desk |
-| 06 | [🔧 PC Hardware Assembly Lab](#) | Hardware, Troubleshooting |
+| 01 | [🌐 Network Design & VLAN Implementation](https://github.com/kuldeep7985/network-lab-configs) | Cisco PT, VLAN, OSPF, RIP |
+| 02 | [🖥️ Windows Server Administration Lab](https://github.com/kuldeep7985/windows-server-lab) | AD, DHCP, DNS, VMware |
+| 03 | [☁️ AWS Cloud Infrastructure Lab](https://github.com/kuldeep7985/aws-cloud-labs) | EC2, S3, IAM, VPC |
+| 04 | [🐧 Multi-OS Deployment & Virtualization](https://github.com/kuldeep7985/multi-os-deployment) | VMware, Hyper-V, Linux |
+| 05 | [🎫 IT Service Desk Simulation](https://github.com/kuldeep7985/it-service-desk-notes) | ServiceNow, Zoho Desk |
+| 06 | [🔧 PC Hardware Assembly Lab](https://github.com/kuldeep7985/pc-hardware-assembly-lab) | Hardware, Troubleshooting |
 
-> 📌 *Repositories with full documentation coming soon*
 
 ---
 
@@ -95,17 +94,9 @@ Available  : Immediate Joiner
 
 <div align="center">
 
-
-
-![Kuldeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kuldeep7985&show_icons=true&theme=tokyonight&hide_border=true&title_color=1C7ED6&icon_color=1C7ED6&cache_seconds=1800&count_private=true)
-
-
-
-
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=kuldeep7985&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
-
+![Kuldeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kuldeep7985&show_icons=true&theme=tokyonight&hide_border=true&title_color=1C7ED6&icon_color=1C7ED6&count_private=true&hide=contribs)
 
 </div>
 
@@ -138,4 +129,3 @@ Available  : Immediate Joiner
 <div align="center">
 <i>"Every expert was once a beginner. Every pro was once an amateur."</i>
 </div>
-

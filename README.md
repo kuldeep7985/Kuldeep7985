@@ -6,7 +6,7 @@
 
 **Faridabad, Haryana, India** • Open to Delhi NCR, Noida, Gurgaon & Remote
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kuldeepsaini12345)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kuldeepsaini545)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kuldeepsaini7975@gmail.com)
 [![Naukri](https://img.shields.io/badge/Naukri-0056D2?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo=&logoColor=white)](https://www.naukri.com)
 
@@ -120,7 +120,7 @@ Available  : Immediate Joiner
 📧 kuldeepsaini7975@gmail.com
 📞 +91-9971277545
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kuldeepsaini12345)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kuldeepsaini545)
 
 </div>
 

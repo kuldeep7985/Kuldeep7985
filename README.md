@@ -95,9 +95,9 @@ Available  : Immediate Joiner
 
 <div align="center">
 
-![Kuldeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kuldeep7985&show_icons=true&theme=tokyonight&hide_border=true&title_color=1C7ED6&icon_color=1C7ED6)
+![Kuldeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kuldeep7985&show_icons=true&theme=tokyonight&hide_border=true&title_color=1C7ED6&icon_color=1C7ED6&cache_seconds=1800&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kuldeep7985&layout=compact&theme=tokyonight&hide_border=true&title_color=1C7ED6)
+![GitHub Streak](https://streak-stats.demolab.com?user=kuldeep7985&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
 
 </div>
 
@@ -130,3 +130,4 @@ Available  : Immediate Joiner
 <div align="center">
 <i>"Every expert was once a beginner. Every pro was once an amateur."</i>
 </div>
+

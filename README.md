@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Kuldeep Saini ji
+# 👋 Hi, I'm Kuldeep Saini 
 
 ### IT Support Engineer | System Administrator | AWS Cloud Practitioner
 

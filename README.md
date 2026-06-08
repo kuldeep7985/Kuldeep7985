@@ -94,9 +94,9 @@ Available  : Immediate Joiner
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=kuldeep7985&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)
-
-![Kuldeep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kuldeep7985&show_icons=true&theme=tokyonight&hide_border=true&title_color=1C7ED6&icon_color=1C7ED6&count_private=true&hide=contribs)
+![GitHub Streak](https://streak-stats.demolab.com?user=kuldeep7985&theme=tokyonight&hide_border=true&date_format=M%20j%5B,%20Y%5D)
+<br><br>
+![Kuldeep's GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=kuldeep7985&show_icons=true&theme=tokyonight&hide_border=true&title_color=1C7ED6&icon_color=1C7ED6&count_private=true&hide=contribs)
 
 </div>
 

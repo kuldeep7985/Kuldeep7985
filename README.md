@@ -71,7 +71,7 @@ Available  : Immediate Joiner
 | Certificate | Issuer | Status |
 |---|---|---|
 | ☁️ AWS Certified Cloud Practitioner | Amazon Web Services | ✅ Completed |
-| 🎓 Diploma in Cloud Computing (DCC) | Jetking Faridabad | 🔄 Pursuing |
+| 🎓 Diploma in Cloud Computing (DCC) | Jetking Faridabad | ✅ Completed |
 | 💻 Diploma in Computer Applications (DCA) | American Institute | ✅ Completed |
 
 ---

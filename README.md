@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Kuldeep Saini 
 
-### IT Support Engineer | System Administrator | AWS Cloud Practitioner
+### Network Administrator| System Administrator | NOC Engineer 
 
 **Faridabad, Haryana, India** • Open to Delhi NCR, Noida, Gurgaon & Remote
 
